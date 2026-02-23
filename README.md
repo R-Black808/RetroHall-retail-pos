@@ -23,6 +23,14 @@ Retro Hall is a production-minded mobile app for a retro game / TCG shop. It inc
 - **Expo Notifications** (push tokens, broadcast push)
 
 ---
+# Screenshots
+![Shop](docs/home(1).png)
+![Shop](docs/home(2).png)
+![Shop](docs/home(3).png)
+![Shop](docs/home(4).png)
+![Shop](docs/home(5).png)
+![Shop](docs/home(6).png)
+![Shop](docs/home(7).png)
 
 ## Project Structure
 
